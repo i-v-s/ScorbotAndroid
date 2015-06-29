@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scorbot1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rXY">XY</string>
+    <string name="rRZ">RZ</string>
+    <string name="rDE">DE</string>
+    <string name="rConnect">Connect</string>
+    <string name="rDisconnect">Disconnect</string>
+</resources>
